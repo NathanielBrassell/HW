@@ -21,7 +21,7 @@ public class Rational{
 
 	else{
 
-	    System.out.println("Invalid Denominator. Denominator cnnat be 0. Setting Numerator to 0 and Denominator to 1.");
+	    System.out.println("Invalid Denominator. Denominator cannot be 0. Setting Numerator to 0 and Denominator to 1.");
 	    _num = 0;
 	    _denom = 1;
 
