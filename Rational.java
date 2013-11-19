@@ -1,5 +1,5 @@
-public class Rational{
-
+public class Rational implements Comperable {
+                           
     private int _denom = 0;
     private int _num = 0;
 
